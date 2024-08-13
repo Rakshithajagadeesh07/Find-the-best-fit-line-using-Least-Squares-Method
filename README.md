@@ -45,13 +45,11 @@ print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow')
 plt.show()
-
 */
 ```
 
 ## Output:
 ![Screenshot 2024-08-13 111435](https://github.com/user-attachments/assets/b765a509-00d0-4d11-9652-9a23edb9fa2a)
-
 
 
 ## Result:
